@@ -1,0 +1,15 @@
+I've got Thaumcraft 4.1.1.14, Baubles 1.0.1.4, and Forge 10.0.1205. I have a world that I generated only with Forge active, and I see what world generation effects different mods have by recreating that world with those mods active and playing with it a bit in single-player.
+When I recreate that world with only Forge, Baubles, and Thaumcraft active, the internal server closes after a few laggy seconds of play. Some but not all of the surrounding chunks have been rendered before the server closes.
+
+Here are the crash reports and logs generated:
+https://drive.google.com/file/d/0B5clrhpvkhheTGRBMjdySlJvbVE/edit?usp=sharing
+https://drive.google.com/file/d/0B5clrhpvkhheQ0dQdHhQRWloM1U/edit?usp=sharing
+https://drive.google.com/file/d/0B5clrhpvkhhedGhWSkgxUnBQVTQ/edit?usp=sharing
+https://drive.google.com/file/d/0B5clrhpvkhheU3lobm4tcHBTcW8/edit?usp=sharing
+
+Note that the crash reports complain about an Aspect Orb. So surely the problem does lie with Thaumcraft on this one. I've observed that, as long as Thaumcraft isn't in my mods folder, I don't have this problem or a problem comparable to it when playing with my other mods.
+
+If you want to try to duplicate my experience, the world uses the default world generation, I enter in survival with cheats enabled, and the seed I'm using is:
+WHEN YOU WALK AWAY
+
+Thanks for looking into this. I'm eager to play Thaumcraft in 1.7 ^.^
